@@ -5,7 +5,7 @@ import Navigation from './routes/navigation';
 // import SignIn from './routes/sign-in';
 
 const Shop = () => {
-  return <h1>I am the shop page</h1>;
+  return <h1>we are into  the shop page</h1>;
 };
 
 const App = () => {
